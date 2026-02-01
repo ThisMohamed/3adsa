@@ -67,18 +67,21 @@ export class Blog {
   goToPage(page: number) {
     if (page >= 1 && page <= this.totalPages()) {
       this.currentPage = page;
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   }
 
   nextPage() {
     if (this.currentPage < this.totalPages()) {
       this.currentPage++;
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   }
 
   previousPage() {
     if (this.currentPage > 1) {
       this.currentPage--;
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   }
 
