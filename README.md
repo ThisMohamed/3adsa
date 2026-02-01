@@ -9,7 +9,7 @@
 
 **A modern, RTL-optimized Arabic photography blog built with Angular 20+ standalone components**
 
-[Live Demo](#) · 
+[Live Demo](https://thismohamed.github.io/3adsa/home) · 
 
 </div>
 
