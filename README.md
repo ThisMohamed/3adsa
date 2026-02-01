@@ -59,7 +59,7 @@
       <br>Bootstrap 5
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Font_Awesome_5_brands_font-awesome.svg/1024px-Font_Awesome_5_brands_font-awesome.svg.png" width="48" height="48" alt="Font Awesome" />
+      <img src="https://fontawesome.com/images/logos/fa-brands.svg" width="48" height="48" alt="Font Awesome" />
       <br>Font Awesome
     </td>
   </tr>
