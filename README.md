@@ -7,7 +7,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**A modern, RTL-optimized Arabic photography blog built with Angular 18+ standalone components**
+**A modern, RTL-optimized Arabic photography blog built with Angular 20+ standalone components**
 
 [Live Demo](#) · 
 
@@ -59,7 +59,7 @@
       <br>Bootstrap 5
     </td>
     <td align="center" width="96">
-      <img src="https://fontawesome.com/images/logos/fa-brands.svg" width="48" height="48" alt="Font Awesome" />
+      <img src="https://www.drupal.org/files/issues/2023-12-04/FontAwesome.png" width="48" height="48" alt="Font Awesome" />
       <br>Font Awesome
     </td>
   </tr>
