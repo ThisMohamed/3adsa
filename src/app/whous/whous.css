@@ -34,6 +34,10 @@
   border-color: #262626 !important;
 }
 
+.text-white-80 {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
 .hero-section {
   padding-top: 6rem;
   padding-bottom: 6rem;
